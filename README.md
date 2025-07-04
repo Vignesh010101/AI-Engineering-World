@@ -1,7 +1,7 @@
-# AI-Engineering-World
+# AI-Engineering-World 🤖
 Welcome to the **AI Engineering World**
 
-## Why this repo?
+## ✨ Why this repo?
 **This repository is built to serve as a complete AI roadmap and resource center for aspiring and professional AI engineers.**
 
 * Covers everything from beginner-friendly AI projects to advanced, real-world applications.
