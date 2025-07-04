@@ -10,3 +10,8 @@ Welcome to the **AI Engineering World**
 
 ## 🪪 License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 💬 Connect
+For discussions, suggestions, and more, feel free to [create an issue](https://github.com/Vignesh010101/AI-Engineering-World/issues) or reach out directly!
+
+**For the latest updates in AI and robotics, feel free to connect with me on**[linkedin](https://www.linkedin.com/in/sci-fi-vy-vignesh/)
