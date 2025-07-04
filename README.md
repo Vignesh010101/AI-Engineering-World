@@ -1,4 +1,4 @@
-# AI-Engineering-World 🤖
+# AI-Engineering-World 🧠🤖
 Welcome to the **AI Engineering World**
 
 ## ✨ Why this repo?
