@@ -8,5 +8,5 @@ Welcome to the **AI Engineering World**
 * Curated to accelerate hands-on learning, innovation, and career growth in AI.
 * Keeps you updated with the latest tools, techniques, and breakthroughs in the AI landscape.
 
-## 📜 License
+## 🪪 License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
